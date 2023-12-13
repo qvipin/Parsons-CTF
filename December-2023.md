@@ -8,7 +8,7 @@
 - **1 - So be good for goodness sake**
     - looked at all the protocols and found IRC which is used for chatting and I entered it.
     
-    Flag: Internet Relay Chat
+    Flag: `Internet Relay Chat`
     
 - **Walking in a Winter Wonderland**
     - Using Aperi’solve, an image forensics tool, I looked in one of the tools and found the flag.
