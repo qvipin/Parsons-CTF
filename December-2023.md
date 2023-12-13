@@ -18,20 +18,20 @@
 - **2 - Walking in a Winter Wonderland**
     - Using Steghide, I noticed an file named flag.txt inside and I got the flag
     
-    Flag: parsons_ctf{walkingroundawinterwonderland}
+    Flag: `parsons_ctf{walkingroundawinterwonderland}`
     
 - **1 - The first day of christmas**
     
     decode is its ASL
     
-    - Flag: iwantahippopotamusforchristmas
+    - Flag: `iwantahippopotamusforchristmas`
 - **4 - The fourth day of christmas**
     - used Shazam and found out the song
     
-    Flag: Waltz of the Flowers
+    Flag: `Waltz of the Flowers`
     
 - **5 - The fifth day of christmas**
     
     Pasted it into google lense.
     
-    Flag: **All I Want For Christmas Is You**
+    Flag: `All I Want For Christmas Is You`
